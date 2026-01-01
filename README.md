@@ -73,4 +73,3 @@ This is because Random Forest effectively captures **non-linear relationships** 
 
 ---
 
-## Project Structure

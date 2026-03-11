@@ -1,4 +1,4 @@
-# Solar-power-perduction-using-regression
+Solar-Power-Prediction-Using-Regression
 
 ## Overview
 This project was developed during my **Data Science internship** and focuses on predicting **solar power generation** using regression-based machine learning models.  
